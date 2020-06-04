@@ -1,1 +1,7 @@
-# shpe-repo
+# SHPE @ UCF
+
+
+## Getting Started
+
+
+## Contents
